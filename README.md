@@ -20,7 +20,7 @@
 3. **M3**：用户主页、关注流、通知占位  
 4. **M4**：白标主题与部署文档  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
